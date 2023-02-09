@@ -1,6 +1,6 @@
 # wesmattison.github.io
 
-This is just a personal website cerated for hosting on github.io. I own a domain: [www.wesmattison.com](wesmattison.com)
+This is just a personal website created for hosting on github.io. I own a domain: [www.wesmattison.com](wesmattison.com)
 
 ### Why?
 
